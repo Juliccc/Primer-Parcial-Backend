@@ -69,5 +69,9 @@ millón de peticiones por segundo).
      - Detección de mutantes: `POST /mutant/`
      - Estadísticas: `GET /stats`
 
+## Deploy de la API para interactuar sin ejecutar el proyecto de manera local:
+
+Link de Render: https://parcial-backend-49971.onrender.com
+
 ## Documentación
 Puedes acceder a la documentación del proyecto en la carpeta docs. Encontrarás los diagramas de secuencia correspondientes a cada servicio y un documento que incluye varias pruebas realizadas para el servicio `/mutant/` 
