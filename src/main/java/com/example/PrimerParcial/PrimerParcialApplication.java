@@ -9,6 +9,6 @@ public class PrimerParcialApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PrimerParcialApplication.class, args);
 
-		System.out.println("Aplcacion andando");
+		System.out.println("Aplcacion funcionando");
 	}
 }
